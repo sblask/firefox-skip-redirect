@@ -35,5 +35,5 @@
         "translation-check": "./bin/translation-check"
     },
     "title": "Skip Redirect",
-    "version": "2.2.2"
+    "version": "2.2.3"
 }
